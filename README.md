@@ -34,15 +34,17 @@ Ao clicar no botão de pagamento na listagem permite registrar o valor pago por 
 Na Aba de relatórios é possível ter uma visão de como estão as transações no sistema em um período determinado pelo Usuário, nele é permitido selecionar dentre 4 opções de relatórios de vencimento, pagamento, crédito e atraso. além de poder ordenar os dados por nome do cliente, data de pagamento, valor pago etc...
 
 
-Tecnologias Utilizadas:
+Tecnologias Utilizadas:<br/>
+<h3 align="center">Front-end</h3>
 <div align="center">
-    Front-end
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+ </div>
 
-    Back-end
+ <h3 align="center">Back-end</h3>
+ <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
     <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
