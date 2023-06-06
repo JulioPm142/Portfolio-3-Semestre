@@ -1,12 +1,10 @@
 # Portfólio 3º Semestre Júlio de Paula Machado 2023
 
-<h3>
- Sistema para Gestão de Cobranças 
 
- Parceiro Acadêmico: Pro4Tech
- <img width="100%" src="assets//Pro4Tech.png">
-  
-</h3>
+<h3>Sistema para Gestão de Cobranças </h3>
+<p align="justify">Parceiro Acadêmico: <a href="https://www.pro4tech.com.br">Pro4Tech</a></p>
+<p align="center"><img src="assets//Pro4Tech.png" widht="20%"></img>
+
 Com o crescimento de uma empresa eventualmente registrar e analisar dados se torna uma necessidade, especialmente em campos ligados a transações monetárias com essa ideia em mente foi decidido o desenvolvimento de um sistema com a função de facilitar o gerenciamento de cobranças de uma empresa. 
 
 ## Prévia da Solução
