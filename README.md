@@ -17,28 +17,61 @@ Além de fornecer aos funcionários uma função de relatório sobre os dados ge
   <summary>
    <h2> Funcionalidade Registro de Compra </h2>
  </summary>
-  <img width="100%" src="assets/Pro4Tech.png">
+
+  <img width="100%" src="assets/funcionalidades/Cadastro.png">
  
- </details>
+</details>
 
 
 No Registro de compra um Funcionário deve utilizar o sistema para cadastrar os devidos dados de um cliente, como nome, endereço, documento e principalmente o valor da compra.
 
-### Funcionalidade Listagem de Compras
+<details>
+  <summary>
+    <h2> Funcionalidade Listagem de Compras </h2>
+ </summary>
+
+  <img width="100%" src="assets/funcionalidades/Listagem.png">
+
+</details>
+
 
 Na listagem o sistema apresenta alguns dados de todas as compras realizadas pelos usuários, possuindo uma função para visualizar mais dados de um usuário selecionado, e realizar o pagamento de alguma parcela, além de contar com uma pesquisa para localizar um usuário específico.
 <br/>
 
-### Funcionalidade Mostrar dados de um cliente
+<details>
+  <summary>
+    <h2>Funcionalidade Mostrar dados de um cliente</h2>
+ </summary>
+
+  <img width="100%" src="assets/funcionalidades/DadosCliente1.png">
+  <img width="100%" src="assets/funcionalidades/DadosCliente2.png">
+
+</details>
 
 Em um Pop-up da listagem de Compras é possível ver dados de um único cliente, como Nome, documento, dados gerais da compra além de dados individuais de cada uma das parcelas.
 <br/>
 
-### Funcionalidade de pagamento
+<details>
+  <summary>
+    <h2> Funcionalidade de pagamento</h2>
+  </summary>
+
+  <img width="100%" src="assets/funcionalidades/GerenciamentoTitulos1.png">
+  <img width="100%" src="assets/funcionalidades/GerenciamentoTitulos2.png">
+
+</details>
+
 Ao clicar no botão de pagamento na listagem permite registrar o valor pago por um cliente para cada parcela, além da data de pagamento e crédito das parcelas pendentes.
 <br/>
+<details>
+  <summary>
+    <h2> Relatórios</h2>
+  </summary>
 
-### Relatórios
+  <img width="100%" src="assets/funcionalidades/Relatorio.png">
+
+</details>
+
 Na Aba de relatórios é possível ter uma visão de como estão as transações no sistema em um período determinado pelo Usuário, nele é permitido selecionar dentre 4 opções de relatórios de vencimento, pagamento, crédito e atraso, além de poder ordenar os dados por nome do cliente, data de pagamento, valor pago, etc.
 <br/>
 
