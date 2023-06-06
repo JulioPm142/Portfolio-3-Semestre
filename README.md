@@ -1,9 +1,12 @@
 # Portfólio 3º Semestre Júlio de Paula Machado 2023
 
-Sistema para Gestão de Cobranças 
+<h3>
+ Sistema para Gestão de Cobranças 
 
-Parceiro Acadêmico: Pro4Tech
-
+ Parceiro Acadêmico: Pro4Tech
+ <img width="100%" src="assets//Pro4Tech.png">
+  
+</h3>
 Com o crescimento de uma empresa eventualmente registrar e analisar dados se torna uma necessidade, especialmente em campos ligados a transações monetárias com essa ideia em mente foi decidido o desenvolvimento de um sistema com a função de facilitar o gerenciamento de cobranças de uma empresa. 
 
 ## Prévia da Solução
@@ -77,7 +80,8 @@ Na Aba de relatórios é possível ter uma visão de como estão as transações
 
 
 
-Tecnologias Utilizadas:<br/>
+## Tecnologias Utilizadas:
+<br/>
 <h3 align="center">Front-end</h3>
 <div align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -95,20 +99,20 @@ Tecnologias Utilizadas:<br/>
 
 </div>
 
-Contribuições Pessoais 
+## Contribuições Pessoais 
 
 Participei do Projeto como Dev Team
 
-Meus objetivos foram conexão inicial do Front com Back-end e desenvolver algumas das funcionalidades do Front-End
+Meus objetivos foram a conexão inicial do Front-end com Back-end e desenvolver algumas das funcionalidades do Front-End.
 
 Como a listagem de clientes utilizando a propriedade .map na lista de usuários recebidos pelo protocolo HTTP, junto a pesquisa de algum usuário,
 criação dos modais para visualizar dados de um cliente específico.
-Além de ter sido responsável pela apresentação dos relatórios, junto aos filtros e a ordenarem dos dados
+Além de ter sido responsável pela apresentação dos relatórios, junto aos filtros e a ordenarem dos dados.
 
 
-Lições Aprendidas
+## Lições Aprendidas
 
-Neste Projeto tive muito contato com as partes de funcionalidade do front-end, em que até dado momento eu havia feito poucas funcionalidades mais focadas em design. Além de ter aprimorado minha afinidade com a biblioteca React, e a linguagem TypeScript principalmente com itens ligados a objetos e listas, e aprofundar meus conhecimentos com protocolos HTTP que já tinha uma leva Idea antes de começar o projeto 
+Neste Projeto tive muito contato com as partes de funcionalidade do front-end, em que até dado momento eu havia feito poucas funcionalidades mais focadas em design. Além de ter aprimorado minha afinidade com a biblioteca React, e a linguagem TypeScript principalmente com itens ligados a objetos e listas, e aprofundar meus conhecimentos com protocolos HTTP que já tinha uma leva Idea antes de começar o projeto. 
 <div align="center">
 
 
@@ -137,6 +141,7 @@ Neste Projeto tive muito contato com as partes de funcionalidade do front-end, e
   </tr>
 </table>
 
+  <br/>
  <h2> Soft Skills </h2>
 
 <table align="center">
