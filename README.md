@@ -120,7 +120,7 @@ Além de ter sido responsável pela apresentação dos relatórios, junto aos fi
 ## Lições Aprendidas
 
 <p align="justify"> 
-Neste Projeto tive muito contato com as partes de funcionalidade do front-end, em que até dado momento eu havia feito poucas funcionalidades mais focadas em design. Além de ter aprimorado minha afinidade com a biblioteca React, e a linguagem TypeScript principalmente com itens ligados a objetos e listas, e aprofundar meus conhecimentos com protocolos HTTP que já tinha uma leva Idea antes de começar o projeto. 
+Neste Projeto tive muito contato com as partes de funcionalidade do front-end, em que até dado momento eu havia feito poucas funcionalidades mais focadas em design. Além de ter aprimorado minha afinidade com a biblioteca React, e a linguagem TypeScript principalmente com itens ligados a objetos e listas, e aprofundar meus conhecimentos com protocolos HTTP que já tinha uma leva Idea antes de começar o projeto. Neste projeto consegui superar uma dificuldade que vinha carregando desde de o primeiro semestre, em que eu sempre tive problemas com a comunicação com o time, que é uma parte crucial do metodo ágil. Mas ao longo deste projeto consegui me comunicar muito mais com os membros do grupo.  
  </p> 
  
 <div align="center">
